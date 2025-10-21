@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm shaik hasna</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">Welcome to My GitHub Space! 🚀 Explore, Collaborate, and Dive into the Projects that Shape My Journey. I am Shaik Hasna, a passionate AI Developer and Data Analytics enthusiast. Let's Build Innovative AI Solutions and Explore the Future of Technology Together! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhasna&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhasna" /> </p>
 
@@ -8,8 +7,6 @@
 - 🔭 I’m currently working on **AI-Powered Smart Food Scanner**
 
 - 🌱 I’m currently learning **Data Analytics, Agentic AI, Generative AI**
-
-- 👯 I’m looking to collaborate on **Voice-Activated Writing Assistant**
 
 - 📫 How to reach me **hasnashaik25@gmail.com**
 
